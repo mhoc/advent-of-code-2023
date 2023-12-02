@@ -1,5 +1,4 @@
 import std/nre
-import std/strformat
 import strutils
 
 type GamePull = object 

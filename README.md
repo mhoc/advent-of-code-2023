@@ -1,9 +1,12 @@
 # advent-of-code-2023
 
-## Languages???
+Solutions to the advent of code 2023. Aiming to use a different language each day. Please don't judge the code quality
+too bad :)
 
-- ~~Go~~
-- ~~Nim~~
+## Languages?
+
+- ~~Day 1: Go~~
+- ~~Day 2: Nim~~
 - Javascript
 - Python
 - Rust
